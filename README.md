@@ -1,0 +1,2 @@
+# tindog
+Pratcicing bootstrap
